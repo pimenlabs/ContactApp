@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple ContactApp
 Contoh project Android untuk implementasi <b>koneksi HTTP</b> pada aplikasi android menggunakan AsyncHttpClient (LoopJ), <b>implementasi design pattern Observer</b> dan penggunaan beberapa komponen dari <b>Material Design Support Library</b>. <br>
 Diantaranya :<br>
@@ -28,3 +29,6 @@ Funsionalitas :<br>
 Result : <br>
 <img src="http://sidiqpermana.com/images/codelab_sess_4.png" width="320px" height="569px"/> <img src="http://sidiqpermana.com/images/code_sess_4_b.png" width="320px" height="569px"/>
 
+=======
+# ContactApp
+>>>>>>> 7e671be82bad80ba406bb0564b07074ca493b23f
